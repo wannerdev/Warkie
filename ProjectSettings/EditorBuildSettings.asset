@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TDGame/Scenes/StartScene.unity
+    guid: 7ea70ba92d8b5425db53c677549fed4b
+  - enabled: 1
+    path: Assets/TDGame/Scenes/Main Demo Multiplayer.unity
+    guid: c94f6d096251c4403ae87d2dda9fde49
+  - enabled: 0
+    path: Assets/TDGame/Scenes/Main Demo.unity
+    guid: 5369dc5def86847a7968b5a651c5112d
+  m_configObjects: {}

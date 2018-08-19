@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="towermedieval" size="1.000000 1.000000" />
+    <ImageTarget name="Logo_SubstancePainter" size="1.000000 0.562500" />
+    <ImageTarget name="Logo_Unity" size="1.000000 0.525000" />
+    <ImageTarget name="turm" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
